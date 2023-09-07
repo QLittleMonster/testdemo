@@ -4,7 +4,7 @@ import ReactDOM from 'react-dom/client'
 // import App from './Components/Home'
 // import App from './组件传值父传子/App'
 // import App from './组件传值子传父/App'
-import App from './组件传值tab栏切换/App'
+import App from './组件tab切换传值/App'
 
 
 
